@@ -8,8 +8,6 @@ Sky Radar is a user-friendly and dynamic application that allows you to track up
 
 - CSS
 
-- JavaScript
-
 <h2> Libraries </h2>
 
 - React
