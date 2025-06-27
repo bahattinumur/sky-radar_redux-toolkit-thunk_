@@ -6,7 +6,7 @@ Sky Radar is a user-friendly and dynamic application that allows you to track up
 
 - HTML
 
-- CSS
+- CSSS
 
 <h2> Libraries </h2>
 
